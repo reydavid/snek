@@ -8,6 +8,6 @@ End game conditions: Collision with walls and snake body
 
 Speed increments at 2 & 5 points
 
-To play: (https://reydavid.github.io/snek/){:target="_blank_"}
+To play: (https://reydavid.github.io/snek/)
 
 <img src="https://github.com/reydavid/snek/blob/main/snekscreen.png">
